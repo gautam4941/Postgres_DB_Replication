@@ -1,5 +1,7 @@
 #!bin/bash
 
+# Ref :- https://www.postgresql.r2schools.com/how-to-setup-streaming-replication-in-postgresql-step-by-step-on-ubuntu/
+
 echo "\t\t##################Master Postgres Replication##################\n\n" ;
 
 slave_ip=$1 ;
